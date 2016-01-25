@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android-support-v4 (4)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/智能手环prj/CommonResource/libs/android-support-v4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/智能手环prj/CommonResource/libs/android-support-v7-appcompat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

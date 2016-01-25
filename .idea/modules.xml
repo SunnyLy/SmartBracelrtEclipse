@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/智能手环prj/CommonResource/CommonResource.iml" filepath="$USER_HOME$/Desktop/智能手环prj/CommonResource/CommonResource.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/智能手环prj/CommonUtils/CommonUtils.iml" filepath="$USER_HOME$/Desktop/智能手环prj/CommonUtils/CommonUtils.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/智能手环prj/smartbracelet/smartbracelet.iml" filepath="$USER_HOME$/Desktop/智能手环prj/smartbracelet/smartbracelet.iml" />
+    </modules>
+  </component>
+</project>
